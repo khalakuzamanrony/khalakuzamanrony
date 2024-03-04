@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @khalakuzamanrony
-- 👀 I’m interested in web design and development & SEO
-- 🌱 I’m currently learning SEO
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (mail me : khalakuzzamanrony@gmail.com)
+- 👀 I’m a Frontend Web Developer and SEO Expert
+- 🌱 I have a very keen interest in Backend Developement
+- 💞️ I have a very Deep knowledge on Wordpress based website.
+- 📫 How to reach me (mail me : khalekuzzamanrony3@gmail.com)
 
 <!---
 khalakuzamanrony/khalakuzamanrony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
