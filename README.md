@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate software tester with expertise in
 | Project Name | Description | Used Tools |
 | ------------ | ----------- | ---------- |
 | [Project-1: OpenCart](https://github.com/khalakuzamanrony/Software-Testing-Projects/tree/main/Project-1%20(OpenCart)) | - Manual testing<br>- Automation testing<br>- Test scenarios, test cases, RTM, bug reports<br>- Selenium, TestNG<br>- Performance testing with JMeter | Excel, Selenium, Java, TestNG, JMeter |
-| [Project-2: API-Testing](https://github.com/khalakuzamanrony/Software-Testing-Projects/tree/main/Prolect-2%20(API-Testing)) | - CRUD operations<br>- API testing<br>- Postman collection<br>- Generated reports using Newman<br>- Assertions to verify responses | Postman, Newman, RESTful APIs |
+| [Project-2: API-Testing](https://github.com/khalakuzamanrony/Software-Testing-Projects/tree/main/Prolect-2%20(API20Testing)) | - CRUD operations<br>- API testing<br>- Postman collection<br>- Generated reports using Newman<br>- Assertions to verify responses | Postman, Newman, RESTful APIs |
 
 
 ## 📈 GitHub Stats
