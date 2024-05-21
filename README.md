@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate software tester with expertise in
 
 **Description**: OpenCart is an e-commerce website. I conducted comprehensive manual and automation testing, including test scenarios, test cases, RTM, and bug reports. Automated tests were implemented using Selenium and TestNG, and performance tests were conducted using JMeter.
 
-### [Project-2: API Testing](https://github.com/khalakuzamanrony/Software-Testing-Projects/tree/main/Project-2%20(API%20Testing))
+### [Project-2: API Testing](https://github.com/khalakuzamanrony/Software-Testing-Projects/tree/main/Prolect-2%20(API-Testing))
 
 **Description**: This project focuses on API testing using Postman and Newman. I performed CRUD operations on the Reqres.in API, created and executed test cases, and generated reports using Newman.
 
