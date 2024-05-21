@@ -31,15 +31,11 @@ Welcome to my GitHub profile! I'm a passionate software tester with expertise in
   
 ## 📂 Projects
 
-| Project Name | Description | Tools Used |
-|--------------|-------------|------------|
-| [Project-1: OpenCart](https://github.com/khalakuzamanrony/Software-Testing-Projects/tree/main/Project-1%20(OpenCart)) | OpenCart is an e-commerce website. I conducted comprehensive Manual, Automation and Performance testing, including test scenarios, test cases, RTM, and bug reports | JIRA, Selenium, TestNG, JMeter |
-| [Project-2: API-Testing](https://github.com/khalakuzamanrony/Software-Testing-Projects/tree/main/Prolect-2%20(API-Testing))    | This project focuses on API testing. I performed CRUD operations on the Reqres.in API, created and executed test cases, and generated reports | Postman, Newman |
 
 | Project Name | Description | Used Tools |
 | ------------ | ----------- | ---------- |
 | [Project-1: OpenCart](https://github.com/khalakuzamanrony/Software-Testing-Projects/tree/main/Project-1%20(OpenCart)) | - Manual testing<br>- Automation testing<br>- Test scenarios, test cases, RTM, bug reports<br>- Selenium, TestNG<br>- Performance testing with JMeter | Excel, Selenium, Java, TestNG, JMeter |
-| [Project-2: API Testing](https://github.com/khalakuzamanrony/Software-Testing-Projects/tree/main/Project-2%20(API-Testing)) | - CRUD operations<br>- API testing<br>- Postman collection<br>- Generated reports using Newman<br>- Assertions to verify responses | Postman, Newman, RESTful APIs |
+| [Project-2: API-Testing](https://github.com/khalakuzamanrony/Software-Testing-Projects/tree/main/Prolect-2%20(API-Testing)) | - CRUD operations<br>- API testing<br>- Postman collection<br>- Generated reports using Newman<br>- Assertions to verify responses | Postman, Newman, RESTful APIs |
 
 
 ## 📈 GitHub Stats
