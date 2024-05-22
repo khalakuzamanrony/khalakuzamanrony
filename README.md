@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm a passionate software tester with expertise in
 ## 📫 Contact
 <p align="left">
 <a href="https://twitter.com/@KhalekuzzamanR5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="itstechmode" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/pramoddutta](https://www.linkedin.com/in/khalekuzzamanrony/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pramoddutta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khalekuzzamanrony" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pramoddutta" height="30" width="40" /></a>
 <a href="https://facebook.com/khalekuzzamanrony1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="techdutta" height="30" width="40" /></a>
 <a href="https://instagram.com/khalekuzzamanrony1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thetestingacademy" height="30" width="40" /></a>
 </p>
